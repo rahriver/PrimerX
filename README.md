@@ -2,7 +2,7 @@
 
 This is a simple shiny app to analyze primers using R programming language. The app includes features to analyze GC-content, hairpin formation, homo-dimers, melting temperature (TM), and import files in various formats.
 
-![preview](https://user-images.githubusercontent.com/89016694/229791796-67bd4db0-eeba-450e-8b6a-0c30311fab56.png)
+![Preview](https://user-images.githubusercontent.com/89016694/229793542-0412e97b-2084-419b-b01b-0a49b3a12745.png)
 
 ## 🛠️ Installation
 
