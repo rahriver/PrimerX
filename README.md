@@ -2,6 +2,8 @@
 
 This is a simple shiny app to analyze primers using R programming language. The app includes features to analyze GC-content, hairpin formation, homo-dimers, melting temperature (TM), and import files in various formats.
 
+![preview](https://user-images.githubusercontent.com/89016694/229791796-67bd4db0-eeba-450e-8b6a-0c30311fab56.png)
+
 ## 🛠️ Installation
 
 To run the app locally, you will need to have R and RStudio installed on your machine.
@@ -29,7 +31,7 @@ To launch the app, open the `app.R` file in RStudio and click the "Run App" butt
 - `Homo-dimer`: Shows the potential for homodimerization (self-dimerization) in the primer sequence.
 - `Tm`: Melting temperature (TM) for the primer.
 
-To import files, click on the "Browse" button. This will allow you to select and upload files in FASTA or plain text format.
+To import files, click on the "Browse" button. This will allow you to select and upload files in FASTA or plain text format. You can also download the results of your primer analysis using the "Download Results" button.
 
 ## 🚀 TODO
 Include more tabs for further sequence analysis other than just for primers.
